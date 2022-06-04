@@ -1,1 +1,20 @@
-/* styles go here */
+.form-field {
+  display: block;
+  margin-bottom: 10px;
+  font-size: initial;
+  font-weight: initial;
+}
+
+.form-field:last-child {
+  margin-bottom: 0;
+}
+
+.groups-field {
+  margin: 20px 0;
+  font-size: initial;
+  font-weight: initial;
+}
+
+.groups-field:last-child {
+  margin-bottom: 0;
+}
